@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Katharina Stein"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I'm a PhD student in computational linguistics at Saarland Univers"
   location         : "Saarbrücken, Germany"
   employer         :
   pubmed           : 
-  googlescholar    : "
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

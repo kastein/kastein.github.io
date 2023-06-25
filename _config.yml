@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Katharina Stein"
-  avatar           : "profile.png"
-  bio              : "I'm a PhD student in computational linguistics at Saarland Univers"
+  avatar           : "profile_photo.png"
+  bio              : "PhD student in Computational Linguistics at Saarland University"
   location         : "Saarbrücken, Germany"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "kstein@lst.uni-saarland.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/katharina-stein-a208b4243/?originalSubdomain=de"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

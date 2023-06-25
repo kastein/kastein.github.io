@@ -1,5 +1,5 @@
 ---
-collection: talks
+collection: publications
 ---
 
 ## 2023

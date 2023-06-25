@@ -1,3 +1,7 @@
+---
+collection: talks
+---
+
 ## 2023
 **From Sentence to Action: Splitting AMR graphs for Recipe Instructions**<br>
 *Katharina Stein, Lucia Donatelli and Alexander Koller*<br>

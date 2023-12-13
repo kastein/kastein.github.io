@@ -6,6 +6,14 @@ author_profile: true
 ---
 
 ## 2023
+
+**AUTOPLANBENCH: Automatically generating benchmarks for LLM planners from PDDL**<br>
+*Katharina Stein and Alexander Koller*<br>
+arXiv preprint arXiv:2311.09830<br>
+[Link Paper](https://arxiv.org/abs/2311.09830)<br>
+[Link Website](https://coli-saar.github.io/autoplanbench)
+
+
 **From Sentence to Action: Splitting AMR graphs for Recipe Instructions**<br>
 *Katharina Stein, Lucia Donatelli and Alexander Koller*<br>
 

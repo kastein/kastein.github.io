@@ -16,7 +16,7 @@ arXiv preprint arXiv:2311.09830<br>
 
 **From Sentence to Action: Splitting AMR graphs for Recipe Instructions**<br>
 *Katharina Stein, Lucia Donatelli and Alexander Koller*<br>
-Proceedings of the Fourth International Workshop on Designing Meaning Representations<br>
+Proceedings of the Fourth International Workshop on Designing Meaning Representations, pages 52-67, Nancy, France.<br>
 [Link](https://aclanthology.org/2023.dmr-1.6/)
 
 

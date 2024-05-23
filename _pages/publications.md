@@ -5,11 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-## 2023
+## 2024
 
-**AUTOPLANBENCH: Automatically generating benchmarks for LLM planners from PDDL**<br>
-*Katharina Stein and Alexander Koller*<br>
-arXiv preprint arXiv:2311.09830<br>
+**Automating the Generation of Prompts
+for LLM-based Action Choice in PDDL Planning**<br>
+*Katharina Stein, Dan Fiser, Jörg Hoffmann and Alexander Koller*<br>
+ICAPS Workshop on Bridging the Gap Between AI Planning and Reinforcement Learning (PRL) <br>
+Previous version: arXiv preprint arXiv:2311.09830<br>
 [Link Paper](https://arxiv.org/abs/2311.09830)<br>
 [Link Website](https://coli-saar.github.io/autoplanbench)
 

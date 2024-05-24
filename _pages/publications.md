@@ -7,15 +7,15 @@ author_profile: true
 
 ## 2024
 
-**Automating the Generation of Prompts
-for LLM-based Action Choice in PDDL Planning**<br>
+**Automating the Generation of Prompts for LLM-based Action Choice in PDDL Planning**<br>
 *Katharina Stein, Dan Fiser, Jörg Hoffmann and Alexander Koller*<br>
 ICAPS Workshop on Bridging the Gap Between AI Planning and Reinforcement Learning (PRL) <br>
-Previous version: arXiv preprint arXiv:2311.09830<br>
-[Link Paper](https://arxiv.org/abs/2311.09830)<br>
+Previous version: [arXiv preprint arXiv:2311.09830](https://arxiv.org/abs/2311.09830)<br>
+Link Paper will follow soon<br>
 [Link Website](https://coli-saar.github.io/autoplanbench)
 
 
+## 2023
 **From Sentence to Action: Splitting AMR graphs for Recipe Instructions**<br>
 *Katharina Stein, Lucia Donatelli and Alexander Koller*<br>
 Proceedings of the Fourth International Workshop on Designing Meaning Representations, pages 52-67, Nancy, France.<br>
@@ -38,13 +38,3 @@ Proceedings of the First Workshop on Interactive Learning for Natural Language P
 *Les Sikos, Katharina Stein and Maria Staudte*<br>
 Frontiers in Psychology, Volume 12 <br>
 [Link](https://doi.org/10.3389/fpsyg.2021.661898)
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}

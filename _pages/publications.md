@@ -5,13 +5,29 @@ permalink: /publications/
 author_profile: true
 ---
 
-## 2024
+## 2025
+
+**Improved Generalized Planning with LLMs through Strategy Refinement and Reflection.**<br>
+*Katharina Stein, Nils Hodel, Daniel Fišer, Jörg Hoffmann, Michael Katz, and Alexander Koller*<br>
+To be presented at the Workshop on [Planning in the Era of LLMs (LM4Plan)](https://llmforplanning.github.io/) @ ICAPS'25<br>
+[Link](https://arxiv.org/abs/2508.13876)<br>
+
 
 **Automating the Generation of Prompts for LLM-based Action Choice in PDDL Planning**<br>
 *Katharina Stein, Dan Fiser, Jörg Hoffmann and Alexander Koller*<br>
-ICAPS Workshop on Bridging the Gap Between AI Planning and Reinforcement Learning (PRL) <br>
+Proceedings of the 35th International Conference on Automated Planning and Scheduling (ICAPS'25).<br>
 Previous version: [arXiv preprint arXiv:2311.09830](https://arxiv.org/abs/2311.09830)<br>
 Link Paper will follow soon<br>
+[Link Website](https://coli-saar.github.io/autoplanbench)
+
+
+## 2024
+
+**Automating the Generation of Prompts for LLM-based Action Choice in PDDL Planning**<br>
+*Katharina Stein, Dan Fišer, Jörg Hoffmann and Alexander Koller*<br>
+Presented at the Workshop on [Bridging the Gap Between AI Planning and Reinforcement Learning (PRL)](https://icaps24.icaps-conference.org/program/workshops/prl/) @ ICAPS'24<br>
+Previous version of the ICAPS'25 paper<br>
+[Link](https://icaps24.icaps-conference.org/program/workshops/prl-papers/20.pdf)<br>
 [Link Website](https://coli-saar.github.io/autoplanbench)
 
 

@@ -9,7 +9,7 @@ author_profile: true
 
 **Improved Generalized Planning with LLMs through Strategy Refinement and Reflection.**<br>
 *Katharina Stein, Nils Hodel, Daniel Fišer, Jörg Hoffmann, Michael Katz, and Alexander Koller*<br>
-To be presented at the Workshop on [Planning in the Era of LLMs (LM4Plan)](https://llmforplanning.github.io/) @ ICAPS'25<br>
+Presented at the Workshop on [Planning in the Era of LLMs (LM4Plan)](https://llmforplanning.github.io/) @ ICAPS'25<br>
 [Paper](https://arxiv.org/abs/2508.13876) 
 [Website](https://coli-saar.github.io/genplanstrategyrefine)
 [Code](https://github.com/coli-saar/genplan-strategy-refine)

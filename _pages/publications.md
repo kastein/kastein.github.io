@@ -5,14 +5,29 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2026
+**Improved Generalized Planning with LLMs through Strategy Refinement and Reflection.**<br>
+*Katharina Stein, Nils Hodel, Daniel Fišer, Jörg Hoffmann, Michael Katz, and Alexander Koller*<br>
+Proceedings of the 36th International Conference on Automated Planning and Scheduling (ICAPS'26).<br>
+[Paper](https://arxiv.org/abs/2508.13876) 
+[Website](https://coli-saar.github.io/genplanstrategyrefine)
+[Code](https://github.com/coli-saar/genplan-strategy-refine)
+
+**On the Ability of Transformers to Verify Plans**<br>
+*Yash Sarrof, Yupei Du, Katharina Stein, Alexander Koller, Sylvie Thiébaux, Michael Hahn*<br>
+Accepted at ICML 2026<br>
+[Paper](https://arxiv.org/pdf/2603.19954)
+[Code](https://github.com/coli-saar/transformers_plan_verification)
+
+
 ## 2025
 
 **Improved Generalized Planning with LLMs through Strategy Refinement and Reflection.**<br>
 *Katharina Stein, Nils Hodel, Daniel Fišer, Jörg Hoffmann, Michael Katz, and Alexander Koller*<br>
 Presented at the Workshop on [Planning in the Era of LLMs (LM4Plan)](https://llmforplanning.github.io/) @ ICAPS'25<br>
-[Paper](https://arxiv.org/abs/2508.13876) 
-[Website](https://coli-saar.github.io/genplanstrategyrefine)
-[Code](https://github.com/coli-saar/genplan-strategy-refine)
+Previous version of the ICAPS'26 paper (see above for further links)
+[Paper](https://arxiv.org/abs/2508.13876v1) 
+
 
 **Automating the Generation of Prompts for LLM-based Action Choice in PDDL Planning**<br>
 *Katharina Stein, Dan Fišer, Jörg Hoffmann and Alexander Koller*<br>

@@ -25,7 +25,7 @@ My research interests include
 * Learning from and adaption through interactions
 
 
-**Publications (see [here](https://kastein.github.io/publications/) for full list)**<br>
+### Publications 
 
 Improved Generalized Planning with LLMs through Strategy Refinement and Reflection.<br>
 Katharina Stein, Nils Hodel, Daniel Fišer, Jörg Hoffmann, Michael Katz, and Alexander Koller<br>
@@ -38,3 +38,5 @@ Yash Sarrof, Yupei Du, Katharina Stein, Alexander Koller, Sylvie Thiébaux, Mich
 Automating the Generation of Prompts for LLM-based Action Choice in PDDL Planning<br>
 Katharina Stein, Dan Fišer, Jörg Hoffmann and Alexander Koller<br>
 @ICAPS 2025
+
+See [here](https://kastein.github.io/publications/) for full list
